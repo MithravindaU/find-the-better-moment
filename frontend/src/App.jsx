@@ -27,8 +27,7 @@ function App() {
     setError("");
 
     try {
-      const response = await fetch(
-        "http://127.0.0.1:8000/find-better-moment",
+      const response = await fetch('https://find-the-better-moment.onrender.com/find-better-moment',
         {
           method: "POST",
           headers: {
