@@ -625,20 +625,6 @@ to document required environment variables.
 
 ---
 
-# 👥 Team
-
-**Find the Better Moment**
-
-Built as a real-time decision-support project exploring how changing real-world conditions can be combined to improve everyday decisions.
-
-### Contributors
-
-- Mithravinda U
-- [Add teammate]
-- [Add teammate]
-- [Add teammate]
-
----
 
 # 🎥 Demo
 
@@ -655,5 +641,15 @@ Built as a real-time decision-support project exploring how changing real-world 
 We don't always need more information.
 
 Sometimes we just need to know **when the moment is better**.
+
+
+# 👥 Contributer
+
+- Mithravinda U
+  
+**Find the Better Moment**
+
+Built as a real-time decision-support project exploring how changing real-world conditions can be combined to improve everyday decisions.
+---
 
 🌿 **Find the Better Moment**
