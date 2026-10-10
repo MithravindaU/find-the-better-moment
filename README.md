@@ -599,7 +599,7 @@ The core idea remains the same:
 | Dynamic geolocation | 🔄 |
 | Production deployment | 🔄 |
 | Final UI polish | 🔄 |
-| Demo video | 🔄 |
+| Demo video | ✅ |
 
 ---
 
