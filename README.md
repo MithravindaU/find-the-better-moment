@@ -632,7 +632,7 @@ to document required environment variables.
 
 **Live Demo:** Coming soon
 
-**Demo Video:** Coming soon
+**Demo Video:** https://drive.google.com/file/d/1TREimnErzN-DpgqrvM37zIxFo6NgxSVA/view?usp=drive_link
 
 ---
 
